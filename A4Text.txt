@@ -1,0 +1,30 @@
+
+Slavi Paskalev
+
+Assignment 4 Questions:
+-----------------------
+
+1. The broadcast IP is 0.0.0.0
+
+2. The destination MAC address is ff:ff:ff:ff:ff:ff
+
+3. The destination IP address is 255.255.255.255
+
+4. The destination MAC address is ff:ff:ff:ff:ff:ff
+
+5. The IP address is 192.168.1.1
+
+6. Client MAC address: 00:22:fa:5e:bf:18
+   Server MAC address: 00:0f:66:5a:3d:a8
+
+7. The IP address offered by the server is the client IP address which is 198.168.1.100
+
+8. Subnet Address: 192.168.1.0/24
+   BroadCast Address: 255.255.255.255
+
+9. IP address lease time: 2 days
+   Subnet Mask: 255.255.255.0
+   DHCP Server Message Type: Offer
+
+10. When a device is running more than one network interface, each interface will run a seporate DHCP
+client instance. Each instance will also have a unique identifier. 
